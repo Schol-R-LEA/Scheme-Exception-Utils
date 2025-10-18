@@ -1,7 +1,7 @@
 #!r6rs
 
 (library
-    (Scheme-Error-Reporting error-reporting)
+    (Scheme-Exception-Utils error-reporting)
   (export
    add-error-reporting)
 
