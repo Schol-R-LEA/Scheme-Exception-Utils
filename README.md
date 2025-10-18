@@ -1,0 +1,1 @@
+A collection of utility macros and procedures for exception and condition handling in R6RS Scheme.
