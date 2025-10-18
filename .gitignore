@@ -1,0 +1,9 @@
+*.scm#*
+.#*.scm
+
+
+tools/
+*.zip
+._*
+*.log
+.lsp/.cache/db.transit.json
