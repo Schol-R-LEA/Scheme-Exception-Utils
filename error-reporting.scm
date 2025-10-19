@@ -4,13 +4,13 @@
  (Scheme-Exception-Utils error-reporting)
  (export
   add-error-reporting)
- 
+
  (import
    (rnrs base (6))
    (rnrs exceptions (6))
    (rnrs conditions (6))
    (rnrs records syntactic (6)))
- 
+
  (define-syntax add-error-reporting
    (syntax-rules (errors)
                  ((_ ?who ?cond-ctor)
