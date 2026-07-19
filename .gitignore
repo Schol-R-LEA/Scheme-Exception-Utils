@@ -6,4 +6,6 @@ tools/
 *.zip
 ._*
 *.log
-.lsp/.cache/db.transit.json
+.lsp
+.vscode
+.clj-kondo
